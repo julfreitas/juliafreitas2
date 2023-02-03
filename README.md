@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Júlia Freitas
 - I'm a software engineering student - UFC
-- I'm currently studying C and Python
 
 <div align="center">
   <a href="https://github.com/julfreitas">
