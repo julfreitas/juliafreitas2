@@ -5,8 +5,8 @@
   <a href="https://github.com/julfreitas">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=julfreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=julfreitas&layout=compact&langs_count=7&theme=dracula"/>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-</div>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=elidianaandrade&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) | `theme=bear` `background=000` `dates=FFF`
+  </div>
 
 
 <div style="display: inline_block"><br>
